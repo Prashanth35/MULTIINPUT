@@ -1,0 +1,22 @@
+<core:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
+		controllerName="multiinput.VIEW" xmlns:html="http://www.w3.org/1999/xhtml">
+	<Page title="Title" id="idpage">
+		<content>
+		
+		<MultiInput width="500px"
+			id="multiInput"
+			
+			showValueHelp="true" valueHelpRequest="onPress">
+			</MultiInput>
+		<VBox>
+		<Label text="Id"/>
+		<Input value="" id="idId"/>
+		<Label text="company" />
+		<Input value=""  id="idCompany"/>
+		<Label text="designation"  />
+		<Input value=""   id="iddesignation"/>
+	</VBox>
+	<Button text="Submit" press="onSubmit"/>
+		</content>
+	</Page>
+</core:View>

@@ -1,0 +1,44 @@
+{
+"data" : [
+     {
+     "person":"Prashanth",
+    "details" : {
+     "id" : "1234",
+      "designation" : "sapui5consultant",
+      "company" : "null"
+     }
+     
+     },
+     {
+     "person":"Govardhan",
+      "details" : {
+     "id" : "1111",
+      "designation" : "sapui5consultant",
+      "company" : "S-Max"
+     }
+     
+     },
+     {
+     "person":"Vicky",
+      "details" : {
+     "id" : "3333",
+      "designation" : "digitalamarketing",
+      "company" : "S-Max"
+     }
+     
+     },
+      {
+     "person":"Surender",
+      "details" : {
+     "id" : "3333",
+      "designation" : "digitalamarketing",
+      "company" : "S-Max"
+     }
+     
+     }
+     
+     
+
+]
+
+}
